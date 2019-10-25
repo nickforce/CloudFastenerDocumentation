@@ -13,6 +13,12 @@ All purpose repo to start putting documentation together in one place.
 4) initialize git
 5) commit all initial to git
 
+![alt text](https://github.com/nickforce/CloudFastenerDocumentation/blob/master/Screen%20Shot%202019-10-25%20at%208.44.45%20AM.png?raw=true)
+- git init
+- git status
+- git add .
+- git commit -m "init commit"
+
 
 # Shortcuts
 
