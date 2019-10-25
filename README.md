@@ -29,7 +29,7 @@ All purpose repo to start putting documentation together in one place.
 CMD+P
 
 # Shortcuts
-CMD+SHIFT+P
+CMD+SHIFT+P == create project w/ manifest
 
 # Shortcuts
 CMD+R
