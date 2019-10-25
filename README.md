@@ -8,7 +8,7 @@ All purpose repo to start putting documentation together in one place.
 
 # Sync your org with VS Code
 1) Create projecct w/ manifest (CMD+SHIFT+P)
-2) Authorize org
+2) Authorize org (CMD+SHIFT+P)
 3) right click on package.xml and retrieve
 4) initialize git
 5) commit all initial to git
