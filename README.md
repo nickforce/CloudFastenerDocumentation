@@ -13,8 +13,16 @@ All purpose repo to start putting documentation together in one place.
 
 
 # Shortcuts
-
 CMD+P
+
+# Shortcuts
 CMD+SHIFT+P
+
+# Shortcuts
 CMD+R
+
+# Shortcuts
 CMD+D
+
+# Shortcuts
+CMD + SHIFT + DownArrow = copy current line
