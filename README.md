@@ -1,4 +1,4 @@
-# CloudFastnerDocumentation
+# CloudFastenerDocumentation
 All purpose repo to start putting documentation together in one place.
 
 # Shortcuts
