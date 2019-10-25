@@ -45,3 +45,6 @@ CMD+D
 
 # Shortcuts
 CMD + SHIFT + DownArrow = copy current line
+
+# Shortcuts
+CMD+B == show/hide File Explorer panel
