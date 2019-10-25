@@ -10,3 +10,11 @@ All purpose repo to start putting documentation together in one place.
 
 
 ![alt text](https://github.com/nickforce/CloudFastenerDocumentation/blob/master/image.png?raw=true)
+
+
+# Shortcuts
+
+CMD+P
+CMD+SHIFT+P
+CMD+R
+CMD+D
