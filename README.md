@@ -1,9 +1,26 @@
 # CloudFastenerDocumentation
-All purpose repo to start putting documentation together in one place.
+- All purpose repo to start putting documentation together in one place.
 
+# VSCode CLI
+1) CMD + SHIFT + P
+2) Shell Command: Install 'code' command in PATH
+3) verify by checking VSCode CLI version in terminal
+4) code --version
+5) verify currently installed extensions
+6) code --list-extensions
 
-# VS Code Extensions
+# VSCode
 ![alt text](https://github.com/nickforce/CloudFastenerDocumentation/blob/master/image%20(2).png?raw=true)
+
+# Script Install (*VSCode CLI required)
+- code --install-extension salesforce.salesforcedx-vscode
+
+
+# Chrome Extensions
+![alt text](https://github.com/nickforce/CloudFastenerDocumentation/blob/master/image%20(2).png?raw=true)
+
+# Script Install
+- // TODO
 
 
 # Sync your org with VS Code
