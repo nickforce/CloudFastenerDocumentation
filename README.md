@@ -1,6 +1,9 @@
 # CloudFastenerDocumentation
 - All purpose repo to start putting documentation together in one place.
 
+# Salesforce CLI Install
+https://developer.salesforce.com/tools/sfdxcli
+
 # VSCode CLI
 1) CMD + SHIFT + P
 2) Shell Command: Install 'code' command in PATH
@@ -12,8 +15,22 @@
 # VSCode
 ![alt text](https://github.com/nickforce/CloudFastenerDocumentation/blob/master/image%20(2).png?raw=true)
 
-# Script Install (*VSCode CLI required)
+# Script Install Example (*VSCode CLI required)
 - code --install-extension salesforce.salesforcedx-vscode
+
+- List of extensions to install are as follows:
+- Nicholass-MacBook-Air:~ airnick$ code --list-extensions
+- dbaeumer.vscode-eslint
+- esbenp.prettier-vscode
+- redhat.vscode-xml
+- salesforce.salesforcedx-vscode
+- salesforce.salesforcedx-vscode-apex
+- salesforce.salesforcedx-vscode-apex-debugger
+- salesforce.salesforcedx-vscode-apex-replay-debugger
+- salesforce.salesforcedx-vscode-core
+- salesforce.salesforcedx-vscode-lightning
+- salesforce.salesforcedx-vscode-lwc
+- salesforce.salesforcedx-vscode-visualforce
 
 
 # Chrome Extensions
